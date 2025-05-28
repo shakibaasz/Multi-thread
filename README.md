@@ -1,8 +1,12 @@
 # Multi-thread 
 #include<thread>
 using namespace std;
+void func(int g){
+cout<<"thread"<<xa<<endl;
 int main(){
-int i;
-for(thread:0,i<5i++)
-return0;}
+for(int i=0;i<5;i++)
+join;
+return 0;a}
 }
+
+
